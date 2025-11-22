@@ -1,0 +1,11 @@
+{
+  "business_name": "Dein Unternehmen",
+  "description": "Kurzbeschreibung",
+  "opening_hours": "Mo-Fr 9-18 Uhr",
+  "location": "Adresse",
+  "products": ["Service 1", "Service 2"],
+  "faq": [
+    { "question": "Was kostet es?", "answer": "Preise auf Anfrage." },
+    { "question": "Öffnungszeiten?", "answer": "Mo-Fr 9-18 Uhr." }
+  ]
+}
