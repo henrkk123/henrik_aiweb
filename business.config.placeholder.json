@@ -1,0 +1,35 @@
+{
+  "business_name": "<BUSINESS_NAME>",
+  "description": "<SHORT_DESCRIPTION>",
+  "opening_hours": "<OPENING_HOURS>",
+  "location": "<LOCATION>",
+  "products": [
+    "<PRODUCT_OR_SERVICE_1>",
+    "<PRODUCT_OR_SERVICE_2>",
+    "<PRODUCT_OR_SERVICE_3>",
+    "<PRODUCT_OR_SERVICE_4>",
+    "<PRODUCT_OR_SERVICE_5>"
+  ],
+  "faq": [
+    {
+      "question": "<FAQ_QUESTION_1>",
+      "answer": "<FAQ_ANSWER_1>"
+    },
+    {
+      "question": "<FAQ_QUESTION_2>",
+      "answer": "<FAQ_ANSWER_2>"
+    },
+    {
+      "question": "<FAQ_QUESTION_3>",
+      "answer": "<FAQ_ANSWER_3>"
+    },
+    {
+      "question": "<FAQ_QUESTION_4>",
+      "answer": "<FAQ_ANSWER_4>"
+    },
+    {
+      "question": "<FAQ_QUESTION_5>",
+      "answer": "<FAQ_ANSWER_5>"
+    }
+  ]
+}

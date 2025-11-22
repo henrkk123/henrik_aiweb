@@ -1,0 +1,23 @@
+{
+  "language": "<LANGUAGE>",
+  "tone": "<TONE_AND_STYLE>",
+  "max_sentences": 3,
+  "invite_action": "<DEFAULT_CALL_TO_ACTION>",
+  "behavior_rules": [
+    "<RULE_1>",
+    "<RULE_2>"
+  ],
+  "allowed_topics": [
+    "<ALLOWED_TOPIC_1>",
+    "<ALLOWED_TOPIC_2>",
+    "<ALLOWED_TOPIC_3>",
+    "<ALLOWED_TOPIC_4>",
+    "<ALLOWED_TOPIC_5>"
+  ],
+  "disallowed_topics": [
+    "<DISALLOWED_TOPIC_1>",
+    "<DISALLOWED_TOPIC_2>",
+    "<DISALLOWED_TOPIC_3>",
+    "<DISALLOWED_TOPIC_4>"
+  ]
+}
